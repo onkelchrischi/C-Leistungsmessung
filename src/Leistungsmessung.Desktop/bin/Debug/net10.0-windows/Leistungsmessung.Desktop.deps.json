@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Leistungsmessung.Desktop/1.0.0": {
+        "dependencies": {
+          "Leistungsmessung.Core": "1.0.0",
+          "Leistungsmessung.Hardware": "1.0.0"
+        },
+        "runtime": {
+          "Leistungsmessung.Desktop.dll": {}
+        }
+      },
+      "Leistungsmessung.Core/1.0.0": {
+        "runtime": {
+          "Leistungsmessung.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Leistungsmessung.Hardware/1.0.0": {
+        "runtime": {
+          "Leistungsmessung.Hardware.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leistungsmessung.Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Leistungsmessung.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Leistungsmessung.Hardware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

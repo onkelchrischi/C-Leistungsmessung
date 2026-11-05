@@ -1,0 +1,11 @@
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\bin\Debug\net10.0\Leistungsmessung.Core.deps.json
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\bin\Debug\net10.0\Leistungsmessung.Core.dll
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\bin\Debug\net10.0\Leistungsmessung.Core.pdb
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\obj\Debug\net10.0\Leistungsmessung.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\obj\Debug\net10.0\Leistungsmessung.Core.AssemblyInfoInputs.cache
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\obj\Debug\net10.0\Leistungsmessung.Core.AssemblyInfo.cs
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\obj\Debug\net10.0\Leistungsmessung.Core.csproj.CoreCompileInputs.cache
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\obj\Debug\net10.0\Leistungsmessung.Core.dll
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\obj\Debug\net10.0\refint\Leistungsmessung.Core.dll
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\obj\Debug\net10.0\Leistungsmessung.Core.pdb
+C:\Users\cweber\Downloads\Leistungsmessung_CSharp_Phase1\src\Leistungsmessung.Core\obj\Debug\net10.0\ref\Leistungsmessung.Core.dll
